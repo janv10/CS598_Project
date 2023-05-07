@@ -29,7 +29,7 @@ Download the source code from GitHub.
 6. Training code + command
 7. Pretrained model
     - To run the python code, use command "python3 main.py" within the source folder.
-    - To run the Jupyter Notebook, use command "jupyter notebook" within the source folder. 
+    - To run the Jupyter Notebook for visualization, use command "jupyter notebook" within the source folder. 
 
 
 8. Table of results
